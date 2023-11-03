@@ -1,0 +1,5 @@
+ i this i my master branch 
+ ffile frim 
+i wwant to add repo in git hub
+git remote
+
